@@ -72,10 +72,10 @@ body {
 .article {
   margin-right: 2px;
   margin-left: 2px;
-/*    .content a img {
-        margin: auto;
-        display: block;
-    }*/
+}
+.article .content a img {
+  margin: auto;
+  display: block;
 }
 .heimu {
   color: #000;
